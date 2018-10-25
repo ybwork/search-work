@@ -1,0 +1,19 @@
+PHP.
+
+    Магические методы.
+
+    Общее устройство Laravel.
+
+    Общее устройство Symfony.
+
+Python.
+
+    Понимание работы декораторов, генераторов, итераторов.
+
+    Redis, Celery, SQLAlchemy, RabbitMQ, PUSH, Cometd, Twisted, Tornado, asyncio, Docker.
+
+    Оптимизация запросов.
+
+    Чем отличается лист от сета.
+
+    

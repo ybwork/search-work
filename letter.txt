@@ -1,0 +1,38 @@
+Python.
+
+Здравствуйте! Примеры моего кода можно посмотреть здесь:
+
+https://github.com/yetbetter/django-don (django)
+
+https://github.com/yetbetter/django-rest-insider (djagno rest)
+
+https://github.com/yetbetter/django-conversion (django)
+
+Если возникнут какие то вопросы, с радостью отвечу.
+
+PHP.
+
+Здравствуйте! Примеры моего кода можно посмотреть здесь:
+
+https://github.com/yetbetter/personal-area (Laravel)
+
+https://github.com/yetbetter/url-shortener (Symfony 4)
+
+Если возникнут какие то дополнительные вопросы, с радостью отвечу.
+
+Common.
+
+Здравствуйте! Примеры моего кода можно посмотреть здесь:
+
+https://github.com/yetbetter/personal-area (Laravel)
+
+https://github.com/yetbetter/url-shortener (Symfony 4)
+
+https://github.com/yetbetter/django-don (django)
+
+https://github.com/yetbetter/django-rest-insider (djagno rest)
+
+https://github.com/yetbetter/django-conversion (django)
+
+Если возникнут какие то дополнительные вопросы, с радостью отвечу.
+
