@@ -1,0 +1,13 @@
+- Hostaway (пройти тест на 10 - https://hostaway.typeform.com/to/DEmsNC)
+
+- Webmasters Forge (большое тестовое, но время не ограниченно)
+
+- handh (интересное тестовое, laravel)
+
+- datum (тестовое с картами, django)
+
+- colnect (https://survey.colnect.info/index.php?r=survey/index&sid=373466&lang=en, заполнить анкету)
+
+- локотех (django, с аналитикой)
+
+- sibedge (python)
