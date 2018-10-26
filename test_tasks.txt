@@ -1,4 +1,4 @@
-- Hostaway (пройти тест на 10 - https://hostaway.typeform.com/to/DEmsNC)
+- Hostaway (пройти тест на 10 - https://hostaway.typeform.com/to/DEmsNC) +
 
 - Webmasters Forge (большое тестовое, но время не ограниченно)
 
@@ -10,4 +10,6 @@
 
 - локотех (django, с аналитикой)
 
-- sibedge (python)
+- sibedge (python) 2
+
+- webim.ru (короткое задание) 3

@@ -1,12 +1,14 @@
 Python.
 
-Здравствуйте! Примеры моего кода можно посмотреть здесь:
+Здравствуйте! Спасибо за подробное описание вакансии.
+
+Примеры моего кода можно посмотреть здесь:
 
 https://github.com/yetbetter/django-don (django)
 
-https://github.com/yetbetter/django-rest-insider (djagno rest)
+https://github.com/yetbetter/django-rest-insider (djagno rest framework)
 
-https://github.com/yetbetter/django-conversion (django)
+https://github.com/yetbetter/django-conversion (django + celery + redis)
 
 Если возникнут какие то вопросы, с радостью отвечу.
 
@@ -30,9 +32,9 @@ https://github.com/yetbetter/url-shortener (Symfony 4)
 
 https://github.com/yetbetter/django-don (django)
 
-https://github.com/yetbetter/django-rest-insider (djagno rest)
+https://github.com/yetbetter/django-rest-insider (djagno rest framework)
 
-https://github.com/yetbetter/django-conversion (django)
+https://github.com/yetbetter/django-conversion (django + celery + redis)
 
 Если возникнут какие то дополнительные вопросы, с радостью отвечу.
 
